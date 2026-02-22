@@ -35,5 +35,3 @@ The system triggers a multi-threaded workflow where the following nodes run simu
 * Acts as the final assembly line.
 * It collects fragments from the Graph State (Title, Sections, Bullets, Glossary, References) and weaves them into a single, professionally formatted **Markdown Report**.
 
-### Next Step
-**Would you like me to help you wrap this code into a Streamlit or Gradio UI so you can run these reports directly in your browser?**
